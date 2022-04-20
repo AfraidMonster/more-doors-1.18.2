@@ -8,7 +8,32 @@
       "metaldecorations:netherite_door",
       "metaldecorations:emerald_door",
       "metaldecorations:redstone_door",
-      "metaldecorations:coal_door"
+      "metaldecorations:coal_door",
+      "metaldecorations:stone_door",
+      "metaldecorations:cobblestone_door",
+      "metaldecorations:andesite_door",
+      "metaldecorations:diorite_door",
+      "metaldecorations:granite_door",
+      "metaldecorations:sandstone_door",
+      "metaldecorations:red_sandstone_door",
+      "metaldecorations:cobbled_deepslate_door",
+      "metaldecorations:calcite_door",
+      "metaldecorations:polished_deepslate_door",
+      "metaldecorations:basalt_door",
+      "metaldecorations:blackstone_door",
+      "metaldecorations:netherrack_door",
+      "metaldecorations:end_stone_door",
+      "metaldecorations:purpur_door",
+      "metaldecorations:quartz_door",
+      "metaldecorations:nether_brick_door",
+      "metaldecorations:prismarine_door",
+      "metaldecorations:bookshelf_door",
+      "metaldecorations:amethyst_door",
+      "metaldecorations:smooth_stone_door",
+      "metaldecorations:obsidian_door",
+      "metaldecorations:brick_door",
+      "metaldecorations:ice_door"
+      
     ]
 
   }

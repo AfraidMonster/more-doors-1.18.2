@@ -1,0 +1,7 @@
+{
+    "parent": "block/door_top",
+    "textures": {
+        "bottom": "metaldecorations:block/andesite_door_bottom",
+        "top": "metaldecorations:block/andesite_door_top"
+    }
+}

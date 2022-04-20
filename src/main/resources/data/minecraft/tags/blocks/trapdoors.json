@@ -8,7 +8,31 @@
       "metaldecorations:netherite_trapdoor",
       "metaldecorations:emerald_trapdoor",
       "metaldecorations:redstone_trapdoor",
-      "metaldecorations:coal_trapdoor"
+      "metaldecorations:coal_trapdoor",
+      "metaldecorations:stone_trapdoor",
+      "metaldecorations:cobblestone_trapdoor",
+      "metaldecorations:andesite_trapdoor",
+      "metaldecorations:diorite_trapdoor",
+      "metaldecorations:granite_trapdoor",
+      "metaldecorations:sandstone_trapdoor",
+      "metaldecorations:red_sandstone_trapdoor",
+      "metaldecorations:cobbled_deepslate_trapdoor",
+      "metaldecorations:calcite_trapdoor",
+      "metaldecorations:polished_deepslate_trapdoor",
+      "metaldecorations:basalt_trapdoor",
+      "metaldecorations:blackstone_trapdoor",
+      "metaldecorations:netherrack_trapdoor",
+      "metaldecorations:end_stone_trapdoor",
+      "metaldecorations:purpur_trapdoor",
+      "metaldecorations:quartz_trapdoor",
+      "metaldecorations:nether_brick_trapdoor",
+      "metaldecorations:prismarine_trapdoor",
+      "metaldecorations:bookshelf_trapdoor",
+      "metaldecorations:amethyst_trapdoor",
+      "metaldecorations:smooth_stone_trapdoor",
+      "metaldecorations:obsidian_trapdoor",
+      "metaldecorations:brick_trapdoor",
+      "metaldecorations:ice_trapdoor"
     ]
 
   }

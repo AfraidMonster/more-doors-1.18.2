@@ -1,0 +1,7 @@
+{
+    "parent": "block/door_top_rh",
+    "textures": {
+        "bottom": "metaldecorations:block/smooth_stone_door_bottom",
+        "top": "metaldecorations:block/smooth_stone_door_top"
+    }
+}

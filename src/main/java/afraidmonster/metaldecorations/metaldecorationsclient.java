@@ -25,6 +25,46 @@ public class metaldecorationsclient implements ClientModInitializer {
         BlockRenderLayerMap.INSTANCE.putBlock(metaldecorations.REDSTONE_TRAPDOOR, RenderLayer.getTranslucent());
         BlockRenderLayerMap.INSTANCE.putBlock(metaldecorations.COAL_DOOR, RenderLayer.getTranslucent());
         BlockRenderLayerMap.INSTANCE.putBlock(metaldecorations.COAL_TRAPDOOR, RenderLayer.getTranslucent());
+        BlockRenderLayerMap.INSTANCE.putBlock(metaldecorations.ANDESITE_DOOR, RenderLayer.getTranslucent());
+        BlockRenderLayerMap.INSTANCE.putBlock(metaldecorations.ANDESITE_TRAPDOOR, RenderLayer.getTranslucent());
+
+        BlockRenderLayerMap.INSTANCE.putBlock(metaldecorations.POLISHED_DEEPSLATE_DOOR, RenderLayer.getTranslucent());
+        BlockRenderLayerMap.INSTANCE.putBlock(metaldecorations.POLISHED_DEEPSLATE_TRAPDOOR, RenderLayer.getTranslucent());
+        BlockRenderLayerMap.INSTANCE.putBlock(metaldecorations.GRANITE_DOOR, RenderLayer.getTranslucent());
+        BlockRenderLayerMap.INSTANCE.putBlock(metaldecorations.NETHER_BRICK_DOOR, RenderLayer.getTranslucent());
+        BlockRenderLayerMap.INSTANCE.putBlock(metaldecorations.PRISMARINE_DOOR, RenderLayer.getTranslucent());
+        BlockRenderLayerMap.INSTANCE.putBlock(metaldecorations.BASALT_DOOR, RenderLayer.getTranslucent());
+        BlockRenderLayerMap.INSTANCE.putBlock(metaldecorations.SANDSTONE_DOOR, RenderLayer.getTranslucent());
+
+
+
+                                                                                                                                                                              
+        BlockRenderLayerMap.INSTANCE.putBlock(metaldecorations.SANDSTONE_TRAPDOOR, RenderLayer.getTranslucent());
+        
+        BlockRenderLayerMap.INSTANCE.putBlock(metaldecorations.RED_SANDSTONE_DOOR, RenderLayer.getTranslucent());
+        BlockRenderLayerMap.INSTANCE.putBlock(metaldecorations.RED_SANDSTONE_TRAPDOOR, RenderLayer.getTranslucent());
+        BlockRenderLayerMap.INSTANCE.putBlock(metaldecorations.PURPUR_DOOR, RenderLayer.getTranslucent());
+        
+        BlockRenderLayerMap.INSTANCE.putBlock(metaldecorations.BRICK_DOOR, RenderLayer.getTranslucent());
+        
+        BlockRenderLayerMap.INSTANCE.putBlock(metaldecorations.NETHERRACK_DOOR, RenderLayer.getTranslucent());
+        BlockRenderLayerMap.INSTANCE.putBlock(metaldecorations.NETHERRACK_TRAPDOOR, RenderLayer.getTranslucent());
+        BlockRenderLayerMap.INSTANCE.putBlock(metaldecorations.SMOOTH_STONE_DOOR, RenderLayer.getTranslucent());
+        
+        BlockRenderLayerMap.INSTANCE.putBlock(metaldecorations.ICE_DOOR, RenderLayer.getTranslucent());
+        BlockRenderLayerMap.INSTANCE.putBlock(metaldecorations.CALCITE_DOOR, RenderLayer.getTranslucent());
+        BlockRenderLayerMap.INSTANCE.putBlock(metaldecorations.CALCITE_TRAPDOOR, RenderLayer.getTranslucent());
+        BlockRenderLayerMap.INSTANCE.putBlock(metaldecorations.GRANITE_TRAPDOOR, RenderLayer.getTranslucent());
+        
+        
+        BlockRenderLayerMap.INSTANCE.putBlock(metaldecorations.COBBLESTONE_TRAPDOOR, RenderLayer.getTranslucent());
+        BlockRenderLayerMap.INSTANCE.putBlock(metaldecorations.COBBLED_DEEPSLATE_TRAPDOOR, RenderLayer.getTranslucent());
+        BlockRenderLayerMap.INSTANCE.putBlock(metaldecorations.BASALT_TRAPDOOR, RenderLayer.getTranslucent());
+        
+        
+
+        
+
         
     }
 

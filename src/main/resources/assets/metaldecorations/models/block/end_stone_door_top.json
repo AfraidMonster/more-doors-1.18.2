@@ -1,0 +1,7 @@
+{
+    "parent": "block/door_top",
+    "textures": {
+        "bottom": "metaldecorations:block/end_stone_door_bottom",
+        "top": "metaldecorations:block/end_stone_door_top"
+    }
+}

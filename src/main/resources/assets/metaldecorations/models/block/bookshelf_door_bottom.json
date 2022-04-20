@@ -1,0 +1,7 @@
+{
+    "parent": "block/door_bottom",
+    "textures": {
+        "bottom": "metaldecorations:block/bookshelf_door_bottom",
+        "top": "metaldecorations:block/bookshelf_door_top"
+    }
+}
