@@ -1,7 +1,0 @@
-{
-    "parent": "block/door_top",
-    "textures": {
-        "bottom": "metaldecorations:block/cobbled_deepslate_door_bottom",
-        "top": "metaldecorations:block/cobbled_deepslate_door_top"
-    }
-}

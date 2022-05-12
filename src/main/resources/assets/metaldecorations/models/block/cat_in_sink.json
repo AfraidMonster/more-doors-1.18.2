@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:block/cube_all",
-  "textures": {
-    "all": "metaldecorations:block/cat_in_sink"
-  }
-}

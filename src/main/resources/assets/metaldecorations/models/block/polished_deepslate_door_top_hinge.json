@@ -1,7 +1,0 @@
-{
-    "parent": "block/door_top_rh",
-    "textures": {
-        "bottom": "metaldecorations:block/polished_deepslate_door_bottom",
-        "top": "metaldecorations:block/polished_deepslate_door_top"
-    }
-}

@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "id": "metaldecorations",
+  "id": "moredoors",
   "version": "${version}",
 
-  "name": "Metal Doors",
-  "description": "A mod which adds metal doors and trapdoors!",
+  "name": "More Doors",
+  "description": "A mod which adds More Doors and Trapdoors!",
   "authors": [
     "AfraidMonster"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "https://AfraidMonster.com/",
+    "sources": "https://github.com/afraidmonster/metal-doors"
   },
 
   "license": "CC0-1.0",
@@ -19,10 +19,10 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "afraidmonster.metaldecorations.metaldecorations"
+      "afraidmonster.moredoors.moredoors"
     ],
     "client" : [
-      "afraidmonster.metaldecorations.metaldecorationsclient"
+      "afraidmonster.moredoors.moredoorsclient"
     ]
   },
   "mixins": [
