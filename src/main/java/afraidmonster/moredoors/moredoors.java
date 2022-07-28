@@ -126,13 +126,15 @@ public class moredoors implements ModInitializer {
 	public static final Block GLASS_TRAPDOOR = new CustomTrapdoorBlock(FabricBlockSettings.copy(Blocks.GLASS));
 
 	public static final Block BEDROCK_DOOR = new CustomDoorBlock(FabricBlockSettings.of(Material.METAL).hardness(-1.0f).sounds(BlockSoundGroup.STONE).resistance(3600000F));
-	public static final Block BEDROCK_TRAPDOOR = new CustomTrapdoorBlock(FabricBlockSettings.of(Material.METAL).hardness(50.0f).sounds(BlockSoundGroup.STONE).resistance(1200F));
+	public static final Block BEDROCK_TRAPDOOR = new CustomTrapdoorBlock(FabricBlockSettings.of(Material.METAL).hardness(-1.0f).sounds(BlockSoundGroup.STONE).resistance(3600000F));
 
 	public static final Block SPONGE_DOOR = new CustomDoorBlock(FabricBlockSettings.copy(Blocks.SPONGE));
 	public static final Block SPONGE_TRAPDOOR = new CustomTrapdoorBlock(FabricBlockSettings.copy(Blocks.SPONGE));
 
 	public static final Block DRIPSTONE_DOOR = new CustomDoorBlock(FabricBlockSettings.copy(Blocks.DRIPSTONE_BLOCK));
 	public static final Block DRIPSTONE_TRAPDOOR = new CustomTrapdoorBlock(FabricBlockSettings.copy(Blocks.DRIPSTONE_BLOCK));
+
+	
 
 	
 
@@ -289,7 +291,7 @@ public class moredoors implements ModInitializer {
 		
 		Registry.register(Registry.BLOCK, new Identifier("moredoors", "obsidian_door"), OBSIDIAN_DOOR);
 		Registry.register(Registry.ITEM, new Identifier("moredoors", "obsidian_door"), new BlockItem(OBSIDIAN_DOOR, new Item.Settings().group(moredoors.MORE_DOORS)));
-		
+	
 		Registry.register(Registry.BLOCK, new Identifier("moredoors", "brick_door"), BRICK_DOOR);
 		Registry.register(Registry.ITEM, new Identifier("moredoors", "brick_door"), new BlockItem(BRICK_DOOR, new Item.Settings().group(moredoors.MORE_DOORS)));
 		
